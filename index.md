@@ -1,11 +1,6 @@
-# Conference Accessibility Pledge
-
 ## Introduction
 
 The accessibility of an event is not a "nice to have". Everyone has a right to an inclusive conference experience regardless of disability or level of ability - Attendees, speakers, volunteers, guests, and organizers. Everyone involved with a conference should be treated equitably and with dignity. 
-
-
-## 
 
 ## The pledge
 
